@@ -1,0 +1,111 @@
+
+/*Scores*/
+.SectionScore{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    width:70vw;
+    margin-left:22vw;
+}
+    /*GraphScores*/
+    #CarteScore{
+        display:flex;
+        flex-direction: row;
+        width:50vw;
+    }
+    #interieurScore{
+        display:flex;
+        flex-direction:row;
+        align-items:center;
+    }
+    #ScoreGeneral{  
+        width:30vw;
+        display:flex;
+        flex-direction: column;
+        align-items:center;
+    }
+    #Scoregeneral{
+        margin-right:1vw;
+    }
+    #GrosScore{
+        width:25vw;
+        height:inherit;
+    }
+    #PetitsScores{
+        display:flex;
+        flex-direction:column;
+        width:15vw;
+    }
+    .colonnepetitscore{
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items: center;
+        text-align: center;
+        margin-top:3vh;
+        width:15vw;
+        padding:0.5vw;
+    }
+    .petitscore{
+        width:10vw;
+        height:inherit;
+    }
+    /*Critères score*/
+    #CarteCriteres{
+        width:15vw;
+        height:fit-content;
+    }
+    .lignecrit{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+    }
+    .iconecritere{
+        width:3.5vw;
+    }
+/*Boutons*/
+.boutons{
+    width:45vw;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left:30vw;
+    margin-top:5vh;
+
+}
+/* Point d'intérêt*/
+.CarteAccueil{
+    display:flex;
+    width:70vw;
+    margin-left:20vw;
+    padding:2vw;
+    margin-top:5vh;
+}
+#ContenuInteret{
+    display:flex;
+    flex-direction:row;
+}
+.interet{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+}
+.colonnecard{
+    margin-left:2vw;
+}
+/* Retours*/
+.ligneretourequipe{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    width:60vw;
+    margin-left:5vw;
+}
+.iconeretour{
+    width:1.5vw;
+    margin-right:2vw;
+}
+.ligneseparation{
+    width:60vw;
+    margin-left:5vw;
+}

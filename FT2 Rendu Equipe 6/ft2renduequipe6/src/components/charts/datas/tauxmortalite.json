@@ -1,0 +1,72 @@
+{
+  "data":[{
+    "name": "Janvier",
+    "Standard": 4,
+    "Etablissement": 3
+  },
+  {
+    "name": "Février",
+    "Standard": 3,
+    "Etablissement": 0
+  
+  },
+  {
+    "name": "Mars",
+    "Standard": 5,
+    "Etablissement": 2
+    
+  },
+  {
+    "name": "Avril",
+    "Standard": 5,
+    "Etablissement": 1
+    
+  },
+  {
+    "name": "Mai",
+    "Standard": 4,
+    "Etablissement": 0
+  
+  },
+  {
+    "name": "Juin",
+    "Standard": 4,
+    "Etablissement": 2
+  },
+  {
+    "name": "Juillet",
+    "Standard": 4,
+    "Etablissement": 3
+    
+  },
+  {
+    "name": "Août",
+    "Standard": 5,
+    "Etablissement": 0
+    
+  },
+  {
+    "name": "Septembre",
+    "Standard": 5,
+    "Etablissement": 0
+    
+  },
+  {
+    "name": "Octobre",
+    "Standard": 3,
+    "Etablissement": 2
+    
+  },
+  {
+    "name": "Novembre",
+    "Standard": 3,
+    "Etablissement": 4
+    
+  },
+  {
+    "name": "Décembre",
+    "Standard": 4,
+    "Etablissement": 1
+    
+  }]
+}

@@ -1,0 +1,39 @@
+#sidebar {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background: #003E5C;
+    grid-area: sidebar;
+    overflow-y: auto;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    height:100vh;
+    width:15vw;
+    position:fixed;
+}
+.contenantlogo{
+  display:flex;
+  justify-content: center;
+  margin-top:3vh;
+  margin-bottom:3vh;
+}
+#logokorian{
+  width:80%;
+}
+.lignelien{
+  display:flex;
+  flex-direction: row;
+  align-items:center;
+  width:13vw;
+  margin-left:1vw;
+  margin-top:1.5vh;
+}
+.iconelien{
+  width:1.5vw;
+  height:inherit;
+}
+.liensidebar{
+  text-decoration: none;
+  margin-left:2vw;
+  color:white;
+}

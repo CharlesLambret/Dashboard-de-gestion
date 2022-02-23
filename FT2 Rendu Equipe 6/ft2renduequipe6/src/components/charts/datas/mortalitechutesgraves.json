@@ -1,0 +1,19 @@
+{
+    "data":[
+      {
+        "name": "Etablissement",
+        "Taux": 65,
+        "fill": "#EF7D00"
+      },
+      {
+        "name": "Standard",
+        "Taux": 40,
+        "fill": "#037CBF"
+      },
+      {
+        "name": "Invisible",
+        "Taux": 100,
+        "fill": "#FFFFFF"
+      }
+    ]
+}
